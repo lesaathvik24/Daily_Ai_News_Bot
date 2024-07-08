@@ -2,6 +2,8 @@ Discover the latest in AI news with our Discord bot, an advanced AI agent built 
 <br />
 Try it out and join our community: https://discord.gg/AJUdBCUK6J 
 <br />
+You can find the docker image here:https://hub.docker.com/r/lekhan24/dataset-agent
+<br />
 Here is the snapshot working of the bot:
 <br />
 <img width="1368" alt="Example" src="https://github.com/lesaathvik24/Daily_Ai_News_Bot/assets/92513886/8a4d3103-148f-4f54-8c29-70cdc7db221e">
